@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\andre\\source\\repos\\winformsapp1\\winformsapp1\\documentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\documentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\andre\\source\\repos\\winformsapp1\\winformsapp1\\documentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\documentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\andre\\source\\repos\\winformsapp1\\winformsapp1\\documentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\documentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\andre\\source\\repos\\winformsapp1\\winformsapp1\\stocksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\stocksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\stocksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\andre\\source\\repos\\winformsapp1\\winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\andre\\source\\repos\\winformsapp1\\winformsapp1\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\andre\\source\\repos\\winformsapp1\\winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\andre\\source\\repos\\winformsapp1\\winformsapp1\\documentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\documentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\andre\\source\\repos\\winformsapp1\\winformsapp1\\documentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\documentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\andre\\source\\repos\\winformsapp1\\winformsapp1\\counterpartiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5A5B6D-D25C-4881-BE38-E69027F76179}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\counterpartiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\MainForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\MainForm.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "WinFormsApp1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T12:27:55.424Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "StocksForm.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\StocksForm.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\StocksForm.cs",
               "ToolTip": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\StocksForm.cs",
               "RelativeToolTip": "WinFormsApp1\\StocksForm.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAAAIkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAawN4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T12:19:56.097Z",
+              "WhenOpened": "2025-07-08T20:05:09.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "StocksForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\StocksForm.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\StocksForm.cs",
               "ToolTip": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\StocksForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "WinFormsApp1\\StocksForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T12:16:14.824Z",
+              "WhenOpened": "2025-07-08T20:05:05.884Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\MainForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\MainForm.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\MainForm.cs",
-              "RelativeToolTip": "WinFormsApp1\\MainForm.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAewCoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T11:56:53.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DocumentsForm.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DocumentsForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\DocumentsForm.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DocumentsForm.cs",
-              "RelativeToolTip": "WinFormsApp1\\DocumentsForm.cs",
-              "ViewState": "AgIAAAcBAAAAAAAAAAAWwL8AAAAAAAAAAAAAAA==",
+              "Title": "DataBaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DataBaseHelper.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DataBaseHelper.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DataBaseHelper.cs",
+              "RelativeToolTip": "WinFormsApp1\\DataBaseHelper.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T11:46:20.487Z",
+              "WhenOpened": "2025-07-08T20:00:42.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "CounterpartiesForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\CounterpartiesForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\CounterpartiesForm.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\CounterpartiesForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\CounterpartiesForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:35:30.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DocumentsHandler.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DocumentsHandler.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DocumentsHandler.cs*",
+              "RelativeToolTip": "WinFormsApp1\\DocumentsHandler.cs*",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAEwOMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:25:30.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DocumentsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DocumentsForm.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\DocumentsForm.cs",
               "ToolTip": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DocumentsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "WinFormsApp1\\DocumentsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T11:43:04.491Z",
+              "WhenOpened": "2025-07-08T17:24:52.951Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DocumentsForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DocumentsForm.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DocumentsForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\DocumentsForm.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAIAzwKwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:11:52.576Z",
+              "EditorCaption": ""
             }
           ]
         }

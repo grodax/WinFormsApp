@@ -14,7 +14,6 @@ namespace WinFormsApp1
 {
     public partial class StocksForm : Form
     {
-        private string connectionString = "Data Source=WarehouseDB.sqlite;Version=3;";
         private DataAccessSQLite dataAccess;
 
         public StocksForm()
@@ -97,7 +96,7 @@ namespace WinFormsApp1
 
             int productId = Convert.ToInt32(comboBox1.SelectedValue);
 
-            using (var connection = new SQLiteConnection(connectionString))
+            using (var connection = new SQLiteConnection(DatabaseHelper.GetConnectionString()))
             {
                 connection.Open();
                 using (var transaction = connection.BeginTransaction())
@@ -157,7 +156,7 @@ namespace WinFormsApp1
 
             int productId = Convert.ToInt32(comboBox1.SelectedValue);
 
-            using (var connection = new SQLiteConnection(connectionString))
+            using (var connection = new SQLiteConnection(DatabaseHelper.GetConnectionString()))
             {
                 connection.Open();
                 using (var transaction = connection.BeginTransaction())
@@ -215,7 +214,7 @@ namespace WinFormsApp1
 
             int productId = Convert.ToInt32(comboBox1.SelectedValue);
 
-            using (var connection = new SQLiteConnection(connectionString))
+            using (var connection = new SQLiteConnection(DatabaseHelper.GetConnectionString()))
             {
                 connection.Open();
                 using (var transaction = connection.BeginTransaction())

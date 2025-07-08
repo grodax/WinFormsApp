@@ -16,7 +16,6 @@ namespace WinFormsApp1
     public partial class ProductsForm : Form
     {
         private DataAccessSQLite dataAccess;
-        private string connectionString = "Data Source=WarehouseDB.sqlite;Version=3;";
         public ProductsForm()
         {
             InitializeComponent();
@@ -62,7 +61,7 @@ namespace WinFormsApp1
             }
 
             // Используем транзакцию для обеих операций
-            using (var connection = new SQLiteConnection(connectionString))
+            using (var connection = new SQLiteConnection(DatabaseHelper.GetConnectionString()))
             {
                 connection.Open();
                 using (var transaction = connection.BeginTransaction())
@@ -160,7 +159,7 @@ namespace WinFormsApp1
                 }
 
                 // Удаление в транзакции
-                using (var connection = new SQLiteConnection(connectionString))
+                using (var connection = new SQLiteConnection(DatabaseHelper.GetConnectionString()))
                 {
                     connection.Open();
                     using (var transaction = connection.BeginTransaction())
@@ -244,7 +243,7 @@ namespace WinFormsApp1
                 }
 
                 // Обновление в транзакции
-                using (var connection = new SQLiteConnection(connectionString))
+                using (var connection = new SQLiteConnection(DatabaseHelper.GetConnectionString()))
                 {
                     connection.Open();
                     using (var transaction = connection.BeginTransaction())
